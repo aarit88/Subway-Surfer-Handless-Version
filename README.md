@@ -51,3 +51,5 @@ https://www.python.org/downloads/release/python-31011/
 
 ```bash
 pip install opencv-python mediapipe==0.10.9 pynput
+
+py -3.10 main.py
